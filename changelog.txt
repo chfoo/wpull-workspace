@@ -1,0 +1,1 @@
+ * Fixed: URL normalization did not correctly uppercase percent-encoded strings with mixedcase letters
